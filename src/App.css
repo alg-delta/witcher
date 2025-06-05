@@ -1,0 +1,47 @@
+#root {
+  /* max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem; */
+  text-align: center;
+}
+
+.witcher4 {
+  /* width: 620px; */
+  height: 550px;
+  float: left;
+  border: 5px solid aqua;
+}
+
+.witcher5 {
+  /* width: 620px; */
+  height: 550px;
+  float: left;
+  border: 5px solid aqua;
+}
+
+.witcher1 {
+  height: 550px;
+  float: left;
+  border: 5px solid aqua;
+}
+
+.witcher {
+  /* width: 620px; */
+  height: 550px;
+  float: right;
+  border: 5px solid aqua;
+}
+
+.witcher2 {
+  /* width: 620px; */
+  height: 550px;
+  float: left;
+  border: 5px solid aqua;
+}
+
+.witcher3 {
+  /* width: 620px; */
+  height: 550px;
+  float: left;
+  border: 5px solid aqua;
+}
